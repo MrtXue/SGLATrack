@@ -10,15 +10,15 @@ The official implementation for the **CVPR 2025** paper \[[_Similarity-Guided La
 | Tracker      | UAV123 (AUC) | UAV123_10FPS (AUC) | UAVDT (AUC) | DTB70 (AUC) | UAVTrack112 (AUC) | UAVTrack_L (AUC) |
 |:------------:|:------------:|:-----------:|:-----------------:|:---------------:|:------------:|:-----------:|
 | SGLATrack-DeiT* | 66.9       | 65.5       | 59.9              | 65.1            | 67.5         | 64.0     |
-| SGLAPTrack-ViT | 66.1         | 64.5       | 60.0              | 65.8            | 67.3         | 64.3       | 
-| SGLAPTrack-EVA | 65.1         | 64.3        | 57.9            | 63.8           | 66.9         | 64.7        | 
+| SGLATrack-ViT | 66.1         | 64.5       | 60.0              | 65.8            | 67.3         | 64.3       | 
+| SGLATrack-EVA | 65.1         | 64.3        | 57.9            | 63.8           | 66.9         | 64.7        | 
 
 ### :star2: Performance on Generic Datasets
 | Tracker      | TrackingNet (AUC) | LaSOT (AUC) | GOT-10k (AO) |
 |:------------:|:------------:|:-----------:|:-----------------:|
-| SGLAPTrack-DeiT* | 79.5      | 63.0       | 66.3             |
-| SGLAPTrack-ViT | 79.4        | 64.1       | 66.0             |
-| SGLAPTrack-EVA | 77.7         | 60.9       | 64.2            |
+| SGLATrack-DeiT* | 79.5      | 63.0       | 66.3             |
+| SGLATrack-ViT | 79.4        | 64.1       | 66.0             |
+| SGLATrack-EVA | 77.7         | 60.9       | 64.2            |
 
 
 ## Training Data Preparation
